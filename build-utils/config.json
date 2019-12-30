@@ -1,0 +1,7 @@
+{
+    "entry": {
+      "global": "./global",
+      "component1": "./component1"
+    },
+    "outputPath": "/build"
+}
